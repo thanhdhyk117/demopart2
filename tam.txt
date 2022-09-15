@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 minhtam 123
+=======
+minhtam abcd
+>>>>>>> 5eed7841b3d86e813bfe9ad1eb0e74b334cb1337
